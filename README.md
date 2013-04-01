@@ -8,11 +8,6 @@ Create a block that show the top sold products ( can be set through cms or .xml)
 ```php
 <?php
 
-/**
- * @author Branko Ajzele | http://activecodeline.com | branko.ajzele@surgeworks.com
- * @license GPL
- */
-
 $totalPerPage = ($this->show_total) ? $this->show_total : 6;
 $counter = 1;
 $visibility = array(
