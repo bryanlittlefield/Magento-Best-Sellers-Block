@@ -4,7 +4,7 @@ Magento-Best-Sellers-Block
 Create a block that show the top sold products ( can be set through cms or .xml)
 
 
-
+####Create the following template file (/app/design/frontend/default/YourTheme/template/custom/bestseller.phtml):
 ```php
 <?php
 
